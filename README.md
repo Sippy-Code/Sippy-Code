@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sippy-Code (Sippy)
-- 👀 I’m interested in learning Python for Data Science and applying it to Architecture and Design
+- 👋 Hi, I’m @Sippy-Code (Sippy), a masters student in architecture
+- 👀 I’m interested in learning Python for Data Science and applying it to architecture and design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything that helps me learn
 - 📫 Just text me
